@@ -1,0 +1,10 @@
+audio {
+    position: absolute;
+    align-items: center;
+    bottom: 12px;
+    left: 10px;
+    filter: invert(100%);
+    opacity: 0.7;
+    width: 220px;
+    height: 25px;
+  }
